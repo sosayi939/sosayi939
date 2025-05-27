@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @sosayi939
+- 👀 I’m interested in artificial intelligence, machine learning, and open-source projects.
+- 🌱 I’m currently learning Python and data science.
+- 💞️ I’m looking to collaborate on AI-related projects and innovative tech solutions.
+- 📫 How to reach me: sosayi939@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving puzzles and playing chess in my free time.
